@@ -1,7 +1,7 @@
 # iNoble-tasks
 
 
-For the tables, I created them using MySQL. The two tables are Employee { EmpID, Name, Email and Mobile } and EmpExp { Id, Name, Years and EmpID }.
+For the tables, I created them using MySQL. The two tables are Employee { EmpID, Name, Email and Mobile } and EmpExp { Id, Name, Years and EmpID } (Name here means a company name).
 
 The index.js files are numbered according to each task.
 
